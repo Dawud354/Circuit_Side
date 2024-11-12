@@ -10,3 +10,4 @@ Tech stack used:
  - Redis stack for session data storage
  - Vercel for serverless webhosting
    
+I like to code
